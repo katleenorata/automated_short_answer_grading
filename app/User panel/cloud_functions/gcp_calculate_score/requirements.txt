@@ -1,0 +1,5 @@
+google-cloud-storage==2.8.0
+pandas==2.0.0
+sentence_transformers
+scikit-learn==1.2.2
+

@@ -1,0 +1,11 @@
+question_id,Questions,Answers
+1,What is Data Science?,Data science is an interdisciplinary field that involves the use of statistical and computational methods to extract insights and knowledge from data.
+2,What are some common programming languages used in data science?,"Some common programming languages used in data science include Python, R, and SQL."
+3,What is machine learning?,Machine learning is a subfield of artificial intelligence that involves the use of algorithms to automatically learn patterns and make predictions from data.
+4,What is supervised learning?,"Supervised learning is a type of machine learning where the model is trained on labeled data, meaning that the data includes both input features and the correct output values."
+5,What is deep learning?,"Deep learning is a subfield of machine learning that involves the use of artificial neural networks, which are composed of many layers of interconnected nodes, to learn complex representations of data."
+6,What is data preprocessing?,Data preprocessing is the process of cleaning and transforming raw data into a format that can be used for analysis
+7,What is overfitting?,"Overfitting is a common problem in machine learning where the model is trained too well on the training data and becomes too specific to that data, leading to poor performance on new data."
+8,What is feature selection?,"rocess of selecting a subset of the original features in a dataset that are most relevant to the task at hand, in order to improve model performance and reduce complexity."
+9,What is a confusion matrix?,It a table that summarizes the performance of a classification model by comparing the predicted and actual class labels for a set of test data.
+10,What is unsupervised learning?,It is a type of machine learning where the model is trained on unlabeled data.
